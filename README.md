@@ -1,2 +1,3 @@
 # docs
-Public developer documentation (GitHub Pages)
+
+Published at https://witmiester-labs.github.io/docs/
