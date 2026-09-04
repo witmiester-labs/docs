@@ -1,1 +1,2 @@
 body{font-family:system-ui;max-width:720px;margin:2rem auto}
+@media (prefers-color-scheme: dark){body{background:#0d1117;color:#e6edf3}}
